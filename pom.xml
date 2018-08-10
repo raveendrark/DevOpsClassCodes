@@ -27,12 +27,12 @@
             <id>vaadin-addons</id>
             <url>http://maven.vaadin.com/vaadin-addons</url>
         </repository>
-     <distributionManagement>
-         <snapshotRepository>
+	    
+         <repository>
            <id>snapshots</id>
            <url>http://35.200.171.9:8081/nexus/content/repositories/snapshots</url>
-         </snapshotRepository>
-     </distributionManagement>
+         <repository>
+		 
         <repository>
             <id>vaadin-snapshots</id>
             <url>http://oss.sonatype.org/content/repositories/vaadin-snapshots/</url>
