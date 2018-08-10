@@ -30,7 +30,7 @@
 	    
         <repository>
             <id>vaadin-snapshots</id>
-            <url>http://35.200.171.9:8081/nexus/content/repositories/snapshots</url>
+            <url>http://oss.sonatype.org/content/repositories/vaadin-snapshots/</url>
             <releases>
                 <enabled>false</enabled>
             </releases>
