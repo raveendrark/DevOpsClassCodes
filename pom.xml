@@ -491,5 +491,13 @@
             </reporting>
         </profile>
     </profiles>
-
+	
+<distributionManagement>
+  <repository>
+    <id>DevCompile</id>
+    <name>DevCompile</name>
+    <url>http://35.200.237.220:8081/nexus/content/repositories/DevCompile</url>
+  </repository>
+</distributionManagement>
+	
 </project>
