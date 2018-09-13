@@ -494,9 +494,9 @@
 	
 <distributionManagement>
   <repository>
-    <id>DevCompile</id>
-    <name>DevCompile</name>
-    <url>http://35.200.237.220:8081/nexus/content/repositories/DevCompile</url>
+    <id>QAPackage</id>
+    <name>QAPackage</name>
+    <url>http://35.200.244.186:8081/nexus/content/repositories/QAPackage</url>
   </repository>
 </distributionManagement>
 	
